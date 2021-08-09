@@ -1,0 +1,58 @@
+body {
+	font-family: "Work Sans", sans-serif;
+}
+.container {
+    margin: 50px;
+}
+
+.col{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 20px;   
+}
+h1 {
+    text-align: center;
+}
+.sub{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+a {
+    display: block;
+    height: 10px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+.soc{
+    display:inline-block;
+    height: 20px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100%;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    box-shadow: 10px;
+}
+
+
+img{
+    width:80px;
+    display: inline-block;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+img:active {
+    
+    transform: translateY(4px);
+}
+.footer {	
+	text-align: center;
+	font-size: 18px;
+}
